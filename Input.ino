@@ -26,10 +26,6 @@
       deadtimeOld = now;
       Connected = false;
       LEDSAllOff();
-//      display.clearDisplay();
-//      display.setCursor(0,0);
-//      display.println("no signal...");
-//      display.display();
     }    
   }
 
